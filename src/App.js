@@ -1,13 +1,18 @@
 
 import './index.css';
-import Item from './components/Items';
+import {Routes, Route} from 'react-router-dom';
+import Items from './components/Items';
+import Home from './components/Home';
+import Navbar from './components/Navbar';
+import About from './components/About';
 
 function App() {
   return (
-    <div className="">
-      <Item />
-    
-    </div>
+    <>
+    <Navbar />
+
+    </>
+  
   );
 }
 

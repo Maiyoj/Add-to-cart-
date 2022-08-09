@@ -3,11 +3,10 @@ import {Link} from  "react-router-dom";
 function Navbar(){
     return(
         <>
-        <nav>
+        <nav className="flex justify-center space-x-7 pt-8 bg-blue-900 h-24">
             <Link to={"/"} exact="true">Home</Link>
             <Link to={"/about"} exact="true">About</Link>
             <Link to={"/items"} exact="true">Items</Link>
-            
         </nav>
         </>
     )
