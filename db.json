@@ -1,0 +1,26 @@
+{
+  "items":[
+      
+      {
+       "id":1,
+       "name":"Colgate",
+       "price":20
+
+      },
+      {
+        "id":2,
+        "name":"Soap",
+        "price":20
+ 
+       },
+       {
+        "id":2,
+        "name":"Bread",
+        "price":20
+ 
+       }
+       
+      
+
+  ]  
+}
