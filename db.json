@@ -4,19 +4,44 @@
       {
        "id":1,
        "name":"Colgate",
-       "price":20
+       "price":20,
+       "image":"https://c8.alamy.com/comp/2AFNJFP/colgate-toothpaste-made-by-colgate-palmolive-2AFNJFP.jpg"
 
       },
       {
         "id":2,
         "name":"Soap",
-        "price":20
+        "price":20,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09i9uXcp4luBPLEYtzYv90mLMTbKJ45sj2Q&usqp=CAU"
  
        },
        {
-        "id":2,
+        "id":3,
         "name":"Bread",
-        "price":20
+        "price":20,
+        "image":"https://thumbs.dreamstime.com/b/bread-11386486.jpg"
+ 
+       },
+       {
+        "id":4,
+        "name":"Sugar",
+        "price":20,
+        "image":"http://www.foodbusinessafrica.com/wp-content/uploads/2019/03/mumias.jpg"
+ 
+       },
+
+       {
+        "id":5,
+        "name":"Salt",
+        "price":20,
+        "image":"https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/25/499621/1.jpg?0224"
+ 
+       },
+       {
+        "id":6,
+        "name":"Oats",
+        "price":20,
+        "image":"https://www.google.com/aclk?sa=l&ai=DChcSEwi14Y2Py7n5AhWU-FEKHWcUBj8YABAJGgJ3cw&sig=AOD64_0jQfIgDH8NYmEIptRMc2iKxg1B5w&adurl&ctype=5&ved=2ahUKEwjH3PqOy7n5AhUCBRoKHW5DAVIQvhd6BAgBEFg"
  
        }
        
