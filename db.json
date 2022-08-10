@@ -12,7 +12,7 @@
         "id":2,
         "name":"Soap",
         "price":20,
-        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09i9uXcp4luBPLEYtzYv90mLMTbKJ45sj2Q&usqp=CAU"
+        "image":"https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c29hcHxlbnwwfHwwfHw%3D&w=1000&q=80"
  
        },
        {
@@ -41,7 +41,7 @@
         "id":6,
         "name":"Oats",
         "price":20,
-        "image":"https://www.google.com/aclk?sa=l&ai=DChcSEwi14Y2Py7n5AhWU-FEKHWcUBj8YABAJGgJ3cw&sig=AOD64_0jQfIgDH8NYmEIptRMc2iKxg1B5w&adurl&ctype=5&ved=2ahUKEwjH3PqOy7n5AhUCBRoKHW5DAVIQvhd6BAgBEFg"
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQufMdA4c8ZYri-IVVE0PfVnP5OToNYY1HQ&usqp=CAU"
  
        }
        
