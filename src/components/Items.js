@@ -21,7 +21,7 @@ function Items(){
     })
     return(
     <>
-    <div className="flex flex-wrap justify-self-auto pt-6 pb-10 ml-20 mb-8 ">
+    <div className="flex  flex-wrap justify-center pt-6 pb-10  mb-8  ">
     {allItems}
     </div>
     </>
